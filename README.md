@@ -9,3 +9,5 @@ Part of the Complete Unreal Creator course on Udemy, see [here](https://www.udem
 These are just the files from the course, not the actual tutorial videos. This course is exclusively hosted on Udemy.com, and has many hours of high-quality videos.
 
 You're welcome to download, fork or do whatever else legal with all the files!
+
+Thanks!
